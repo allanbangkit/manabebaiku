@@ -1,4 +1,4 @@
-# Manabe Baiku
+# Manabe Baiku :bike: :motorcycle:
 For Dicoding Project.
 ![Manabe Baiku](https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/Saiki-K-Manabe-Baiku-BKB-Rule.jpg)
 ## Setup environment
