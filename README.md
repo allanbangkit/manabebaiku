@@ -12,3 +12,6 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard\dashboard.py
 ```
+
+## Link
+![Manabe Baiku Streamlit](https://manabebaiku.streamlit.app/)
