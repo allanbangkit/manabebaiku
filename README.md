@@ -14,4 +14,4 @@ streamlit run dashboard\dashboard.py
 ```
 
 ## Link
-![Manabe Baiku Streamlit](https://manabebaiku.streamlit.app/)
+[Manabe Baiku Streamlit](https://manabebaiku.streamlit.app/)
